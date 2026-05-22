@@ -1,0 +1,2 @@
+from detectors.yolo_detector import YOLODetector
+from detectors.seeta_detector import SeetaFaceDetector
